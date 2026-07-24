@@ -47,7 +47,7 @@ File Organizer is a terminal-based Python application that automatically organiz
 5. Run the program:
 
 ```bash
-python file_organizer.py
+python main.py
 ```
 
 ---
